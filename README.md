@@ -1,1 +1,1 @@
-# python-venv-activator
+# python-venv-activator (just for windows)
